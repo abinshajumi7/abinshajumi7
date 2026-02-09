@@ -11,28 +11,6 @@
 
 ---
 
-### 🛠️ Technical Skills
-
-**Programming & Web**
-- HTML, CSS, JavaScript  
-- Python, C++, Java  
-- DSA, DBMS  
-
-**IoT & Embedded Systems**
-- Arduino IDE, ESP Microcontrollers  
-- Node-RED, Sensor Integration  
-- Real-time Data Monitoring  
-
-**Cyber Security**
-- Nmap, Wireshark  
-- Kali Linux, Google Dorking  
-
-**Tools & Platforms**
-- Git, GitHub, VS Code  
-- AWS Cloud, Blynk, Vercel  
-
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Programming & Web
