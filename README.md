@@ -4,10 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science (IoT) student with **Cyber Security Honours**
-- 💻 Strong foundation in **software development, secure systems, and problem-solving**
-- 🌱 Actively building projects in **Web Development, IoT, and Cloud**
-- 🚀 Passionate about developing **scalable, efficient, and secure solutions**
+I am a third-year BTech student pursuing a degree in Computer Science with a specialization in Internet of Things (IoT) at Christ University.
+
+With a strong foundation in programming, data structures, and IoT technologies, I am passionate about building innovative solutions and exploring the Internet Of Things background. My academic journey has been complemented by hands-on projects. I thrive in problem-solving environments and am eager to apply my skills in real-world applications.
 
 ---
 
