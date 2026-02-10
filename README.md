@@ -42,7 +42,7 @@ With a strong foundation in programming, data structures, and IoT technologies, 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abinshajumi7&show_icons=true&theme=tokyonight" />
 </p>
