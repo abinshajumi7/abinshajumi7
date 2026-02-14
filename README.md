@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a third-year BTech student pursuing a degree in Computer Science with a specialization in Internet of Things (IoT) at Christ University.
+I am a third-year BTech student pursuing a degree in Computer Science with a specialization in Internet of Things (IoT) and Honours in Cyber Security at Christ University.
 
 With a strong foundation in programming, data structures, and IoT technologies, I am passionate about building innovative solutions and exploring the Internet Of Things background. My academic journey has been complemented by hands-on projects. I thrive in problem-solving environments and am eager to apply my skills in real-world applications.
 
