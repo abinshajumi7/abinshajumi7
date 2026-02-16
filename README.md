@@ -43,13 +43,12 @@ With a strong foundation in programming, data structures, and IoT technologies, 
 
 
 ### 📊 GitHub Stats :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinshajumi7&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinshajumi7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=abinshajumi7&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
