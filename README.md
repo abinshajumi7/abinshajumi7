@@ -52,6 +52,9 @@ With a strong foundation in programming, data structures, and IoT technologies, 
 
 ---
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abin__shaju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinshajumi7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbinShaju8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinshajumi7@gmail.com) 
+
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/abinshajumi7  
 - 📧 Email: abinshajumi7@gmail.com  
