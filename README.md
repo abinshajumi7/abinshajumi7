@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Abin Shaju</h1>
-<h3 align="center">Software Engineer Enthusiast | Web & IoT Developer | Cyber Security Minor</h3>
+<h3 align="center">Software Engineer Enthusiast | Web & IoT Developer | Cyber Security Honours</h3>
 
 ---
 
